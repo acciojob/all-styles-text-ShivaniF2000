@@ -1,9 +1,8 @@
-.container{
+div{
     width: 200px;
+    border-left: 5px solid green;
     background-color: purple;
-    border-left-color: green;
-    border-left: 5px;
     padding:10px;
+    color: white;
     font-size: 20px;
-    font color: white;
 }
